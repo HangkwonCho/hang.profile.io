@@ -8,19 +8,19 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: vatican0411@gmail.com
-- 깃헙: https://github.com/HangkwonCho
+- E-mail : vatican0411@gmail.com
+- Github : https://github.com/HangkwonCho
 
 </br>
 
 ## :pushpin: Resume
-- 조항권 : https://github.com/HangkwonCho/hang.profile.io/blob/main/doc/%EC%A1%B0%ED%95%AD%EA%B6%8C_2023.doc
-- 유성연 : https://github.com/HangkwonCho/hang.profile.io/blob/main/doc/%EC%9C%A0%EC%84%B1%EC%97%B0_2023.doc
+- vatican : [doc](https://github.com/HangkwonCho/hang.profile.io/blob/main/doc/%EC%A1%B0%ED%95%AD%EA%B6%8C_2023.doc)
+- nadaguri : [doc](https://github.com/HangkwonCho/hang.profile.io/blob/main/doc/%EC%9C%A0%EC%84%B1%EC%97%B0_2023.doc)
 
 </br>
 
 ## :pushpin: Group 
-- 유성연 : https://github.com/asdffasfasdf/sungyeonyoo
+- nadaguri : [github](https://github.com/asdffasfasdf/sungyeonyoo)
 
 </br>
 
