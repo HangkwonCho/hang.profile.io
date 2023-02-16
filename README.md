@@ -13,6 +13,11 @@
 
 </br>
 
+## :pushpin: Group 
+- 유성연 : https://github.com/asdffasfasdf/sungyeonyoo
+
+</br>
+
 ## :pushpin: Projects
 ### 1. 한국토지공사 홈페이지 제작, 까르프 포탈사이트구축, 샤크존 쇼핑몰 구축
 >홈페이지 제작<br>
