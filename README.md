@@ -244,5 +244,5 @@
 ### 37. Resello Manager
 >Resello 관리자 FRONT/BACK-END 설계/개발<br>
 >개발 기간: 2022.10 ~ 2023.02<br>
->고객사 : 전남광관<br>
+>고객사 : 원스토어<br>
 >기술 스택 : Spring Boot, Spring Batch, MySql
